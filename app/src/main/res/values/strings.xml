@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KaiBaiPo</string>
+
+    <string name="opcoes">Escolha uma opção</string>
+    <string name="ultimaJogada">Última Jogada</string>
+    <string name="jogadaPlayer">Você</string>
+    <string name="resultado">Resultado</string>
+    <string name="jogadoPC">Não Você</string>
+    <string name="venceu">Você Venceu! E vai de novo carai</string>
+    <string name="perdeu">Perdeu trouxa melhor jogar de novo pra não ser vergonhoso seu porra</string>
+    <string name="empatou">Vai de novo carai</string>
+</resources>
